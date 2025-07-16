@@ -1,3 +1,2 @@
-const Otp = new Map(); // key: email, value: { otp, timestamp }
-
+const Otp = new Map();
 export default Otp;
